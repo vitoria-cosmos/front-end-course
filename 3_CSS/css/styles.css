@@ -71,3 +71,17 @@ h2 {
 .simple-hex-2 {
     color: #a5f;
 }
+
+.simple-hex-3 {
+    color: #f00;
+}
+
+/* RGB */
+.rgb {
+    color: rgb(255, 0, 0);
+
+}
+
+.mixed-rgb {
+    color: rgb(0, 255, 0);
+}
