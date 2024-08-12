@@ -62,3 +62,12 @@ h2 {
 .hex3 {
     color: #ffff00;
 }
+
+/* Aprofundando em hex */
+.simple-hex {
+    color: #333;
+}
+
+.simple-hex-2 {
+    color: #a5f;
+}
