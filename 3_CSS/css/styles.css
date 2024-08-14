@@ -7,9 +7,9 @@ h3 {
     color: green;
 }
 
-p {
+/* p {
     color: blueviolet;
-}
+} */
 
 /* Algum comentário */
 /* Mais um comentário */
@@ -109,4 +109,17 @@ h2 {
 .bg-2 {
     background-color: rgb(255, 0, 0);
     color: #ffffff;
+}
+
+/* Background opacity */
+
+.bg-opacity {
+    background-color: green;
+    opacity: 0.2;
+}
+
+.bg-opacity-2 {
+    background-color: #999;
+    color: #000;
+    opacity: .8;
 }
