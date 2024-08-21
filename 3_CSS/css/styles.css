@@ -184,3 +184,15 @@ h2 {
     padding-right: 20px;
     padding-bottom: 40px;
 }
+
+/* Shorthand padding */
+
+.shorthand-padding {
+    background-color: #444;
+    padding: 6px 12px 18px 24px;
+}
+
+.shorthand-padding {
+    background-color: #555;
+    padding: 10px 20px;
+}
