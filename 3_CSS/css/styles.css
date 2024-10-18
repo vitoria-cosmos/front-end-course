@@ -147,6 +147,7 @@ h2 {
 .centered-bg {
     background-position: center;
     background-size: cover;
+    /* cover para que a imagem caiba dentro da div */
 }
 
 /* largura e altura */
@@ -223,4 +224,34 @@ h2 {
 .border-2 {
     border: 2px dotted #931;
     padding: 25px;
+}
+
+/* Borda individual */
+.border-left {
+    border-left: 3px solid red;
+    background-color: #222;
+    padding: 25px;
+
+}
+
+.border-bottom {
+    border-bottom: 5px double #399;
+    background-color: #aaa;
+    padding: 20px;
+}
+
+
+.rounded-p {
+    border: 4px solid blue;
+    background-color: #000;
+    color: blue;
+    padding: 15px;
+    border-radius: 15px;
+}
+
+.rounded-p-2 {
+    background-color: #000;
+    color: blue;
+    padding: 15px;
+    border-radius: 25px;
 }
