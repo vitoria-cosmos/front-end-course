@@ -1,0 +1,17 @@
+
+#box-model {
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+    margin: auto;
+    border: 5px solid black;
+    outline: solid 5px red;
+}
+
+.box-model-text {
+    color: white;
+    background-color: red;
+    padding: 2px;
+    text-align: center;
+    justify-content: center;
+}
