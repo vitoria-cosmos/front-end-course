@@ -326,3 +326,25 @@ h2 {
 .spacing {
     letter-spacing: 5px;
 }
+
+/* Fontes */
+
+.serif {
+    font-family: Georgia;
+}
+
+.sans-serif {
+    font-family: Helvetica;
+}
+
+.monospace {
+    font-style: "Courier New";
+}
+
+.cursive {
+    font-family: cursive;
+}
+
+.fantasy {
+    font-family: fantasy;
+}
