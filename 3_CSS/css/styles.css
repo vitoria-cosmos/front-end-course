@@ -296,6 +296,8 @@ h2 {
     border: 1px solid red;
 }
 
+/* text decoration */
+
 .underline {
     text-decoration: underline;
 }
@@ -309,3 +311,13 @@ h2 {
     color: red;
 }
 
+
+/* text transform */
+
+.upper {
+    text-transform: uppercase;
+}
+
+.lower {
+    text-transform: lowercase;
+}
