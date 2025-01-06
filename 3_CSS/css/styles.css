@@ -404,3 +404,7 @@ h2 {
     margin: 10px;
 }
 
+.invisible {
+    display: none;
+}
+
