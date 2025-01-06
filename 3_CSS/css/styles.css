@@ -358,3 +358,23 @@ h2 {
 .oblique {
     font-style: oblique;
 }
+
+/* font weight */
+
+/* colocar uma família de fonte que tem todos os pesos que queremos */
+
+.thin, .bold, .bolder {
+    font-family: Helvetica;
+}
+
+.thin {
+    font-weight: 100;
+}
+
+.bold {
+    font-weight: 600;
+}
+
+.bolder {
+    font-weight: 900;
+}
