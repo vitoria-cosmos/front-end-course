@@ -484,3 +484,14 @@ h2 {
     right: 100px;
 
 }
+
+/* sticky */
+
+.sticky {
+    width: 100px;
+    height: 100px;
+    background-color: #994;
+    border: 1px solid green;
+    position: sticky;
+    top: 10px;
+}
