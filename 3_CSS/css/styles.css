@@ -417,3 +417,17 @@ h2 {
     width: 100px;
     height: 100px;
 }
+
+
+/* relative */
+
+.relative {
+    position: relative;
+    background-color: #391;
+    color: #fff;
+    width: 100px;
+    height: 100px;
+    top: 100px;
+    left: 40px;
+
+}
