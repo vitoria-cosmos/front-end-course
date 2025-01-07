@@ -431,3 +431,15 @@ h2 {
     left: 40px;
 
 }
+
+/* Absolute */
+
+.absolute {
+    position: absolute;
+    background-color: #964;
+    color: #fff;
+    width: 100px;
+    height: 100px;
+    top: 2px;
+    right: 2px;
+}
