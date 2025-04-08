@@ -59,6 +59,36 @@
                 </select>
              </div>
 
+             <!-- 9 - textarea -->
+              <div>
+                <label>Escreva abaixo o que você achou do post:</label>
+                <textarea name="comment"></textarea>
+              </div>
+
+              <!-- 10 - fieldset e legend -->
+               <div>
+                <!-- fieldset agrupa os inputs
+                 o legend é como se fosse o label do agrupamento de inputs -->
+
+                <fieldset>
+                    <legend>Preencha as suas informações:</legend>
+                    <label for="firstname">Nome:</label>
+                    <input type="text" name="firstname">
+                    <label for="lastname">Sobrenome:</label>
+                    <input type="text" name="lastname">
+
+                </fieldset>
+                <fieldset>
+                    <legend>Informações profissionais:</legend>
+                    <label>Profissão:</label>
+                    <select>
+                        <option>Programador</option>
+                        <option selected>Gerente</option>
+                        <option>Analista de redes</option>
+                        <option>Analista de cx</option>
+                    </select>
+                </fieldset>
+               </div>
 
           <!-- 5 - envio de form -->
            <input type="submit" value="Enviar"/>
